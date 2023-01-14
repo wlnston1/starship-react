@@ -37,6 +37,7 @@
   }
 }
 
+
 .board {
   display: flex;
   padding: 10px 10px;
@@ -54,4 +55,5 @@
 .card>div {
   padding: 5px 5px;
   margin: 10px 10px;
+  
 }
