@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.board {
+  display: flex;
+  padding: 10px 10px;
+  background-color: brown;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: auto;
+  width: 20%;
+  border: 2px solid beige;
+  margin: 3% 3%;
+}
+
+.card>div {
+  padding: 5px 5px;
+  margin: 10px 10px;
+}
